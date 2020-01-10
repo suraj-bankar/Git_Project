@@ -5,3 +5,5 @@ Welcome to Git
 Feature 1 implemented for login form 
 
 Feature 2 implemented for logout form
+
+Bug1 - Fixed
